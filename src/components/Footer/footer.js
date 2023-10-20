@@ -4,7 +4,7 @@ import './footer.css';
 const Footer =()=>{
     return(
         <footer className='footer'>
-            Copyright &#169; 2023 surya prakash. All rights reserved.
+            Copyright &#169; 2023 vennela. All rights reserved.
         </footer>
     );
 }
